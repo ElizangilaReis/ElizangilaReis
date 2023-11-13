@@ -4,7 +4,7 @@
 
 # Quem Sou Eu?
 
-Olá, eu sou [Seu Nome], uma entusiasta da programação em constante jornada de aprendizado. Sou uma programadora junior que respira código e é apaixonada por transformar linhas de texto em experiências incríveis.
+Olá, eu sou [Elizangila dos Reis], uma entusiasta da programação em constante jornada de aprendizado. Sou uma programadora junior que respira código e é apaixonada por transformar linhas de texto em experiências incríveis.
 
 ## 💻 Tecnologias e Habilidades
 
