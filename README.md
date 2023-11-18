@@ -21,7 +21,7 @@ Minhas aventuras no mundo da programação me levaram a explorar diversas tecnol
 
 Ao longo da minha jornada, desenvolvi projetos que são verdadeiras expressões da minha paixão pela programação. Alguns destaques incluem:
 
-- **[web-ceu](https://www.ceu.ao)** .
+- **[website-ceu](https://www.ceu.ao)** .
 - **[portfolio_ElizangilaReis](https://portfolio-elizangilareis.netlify.app)** .
 
 ## 🌈 Explorando o Código
